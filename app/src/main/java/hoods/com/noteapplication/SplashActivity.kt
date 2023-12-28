@@ -53,7 +53,7 @@ class SplashActivity: ComponentActivity() {
         }
         Column(modifier = Modifier.fillMaxSize(), verticalArrangement = Arrangement.Center, horizontalAlignment = Alignment.CenterHorizontally) {
             Image(painter = painterResource(id = R.drawable.unj), contentDescription = "Splash Screen", modifier = Modifier.size(200.dp))
-            Text(text = "Note Application", modifier = Modifier.padding(top = 16.dp))
+            Text(text = "Noteify", fontSize = 16.sp,  modifier = Modifier.padding(top = 16.dp))
             Text(text = "Fikri Ilham Arifin", fontSize = 20.sp, modifier = Modifier.padding(top = 16.dp))
             Text(text = "NIM : 1313621027", fontSize = 20.sp)
 
