@@ -27,7 +27,7 @@ Mobile Application for forgetful people and procrastinators who need to keep tra
 ## Screenshots
 
 - Add Note
-<img src="https://github.com/UnFik/Noteify-mobile/blob/main/image/IMG-20231228-WA0082.jpg" width="250" height="250" />
+<img src="https://github.com/UnFik/Noteify-mobile/blob/main/image/IMG-20231228-WA0082.jpg" width="250" height="auto" />
 
 - Delete Note
 ![[IMG-20231228-WA0086 | width = 100px]](https://github.com/UnFik/Noteify-mobile/assets/89504918/157db7ea-ee74-4d7d-a887-d047daebda0c)
