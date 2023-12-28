@@ -37,4 +37,3 @@ Mobile Application for forgetful people and procrastinators who need to keep tra
 
 - Bookmark Specific Note
 <img src="https://github.com/UnFik/Noteify-mobile/blob/main/image/IMG-20231228-WA0084.jpg" width="250" height="auto" />
-<img src="https://github.com/UnFik/Noteify-mobile/blob/main/image/IMG-20231228-WA0084.jpg" width="250" height="auto" />
