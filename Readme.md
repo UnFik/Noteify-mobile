@@ -30,12 +30,11 @@ Mobile Application for forgetful people and procrastinators who need to keep tra
 <img src="https://github.com/UnFik/Noteify-mobile/blob/main/image/IMG-20231228-WA0082.jpg" width="250" height="auto" />
 
 - Delete Note
-![[IMG-20231228-WA0086 | width = 100px]](https://github.com/UnFik/Noteify-mobile/assets/89504918/157db7ea-ee74-4d7d-a887-d047daebda0c)
+<img src="https://github.com/UnFik/Noteify-mobile/blob/main/image/IMG-20231228-WA0086.jpg" width="250" height="auto" />
 
 - Edit Note
-![IMG-20231228-WA0085](https://github.com/UnFik/Noteify-mobile/assets/89504918/284c6d1b-c5d8-4ec0-ba0a-7f81d6055e14)
+<img src="https://github.com/UnFik/Noteify-mobile/blob/main/image/IMG-20231228-WA0085.jpg" width="250" height="auto" />
 
 - Bookmark Specific Note
-![IMG-20231228-WA0084](https://github.com/UnFik/Noteify-mobile/assets/89504918/ff5e517e-4f46-4f74-add2-a3d1cad4c0ce)
-
-
+<img src="https://github.com/UnFik/Noteify-mobile/blob/main/image/IMG-20231228-WA0084.jpg" width="250" height="auto" />
+<img src="https://github.com/UnFik/Noteify-mobile/blob/main/image/IMG-20231228-WA0084.jpg" width="250" height="auto" />
