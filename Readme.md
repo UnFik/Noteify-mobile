@@ -3,6 +3,8 @@
 
 Mobile Application for forgetful people and procrastinators who need to keep track of their activities. Developed with Jetpack Compose, MVVM, and Clean Architecture
 
+## Youtube Documentation
+[https://youtu.be/1_q3eHrc9po](https://www.youtube.com/watch?v=1_q3eHrc9po)
 
 ## Features
 
